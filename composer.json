@@ -1,5 +1,5 @@
 {
-    "name": "jms/payment-core-bundle-sf4",
+    "name": "wbagg/payment-core-bundle-sf4",
     "type": "symfony-bundle",
     "description": "A unified API for processing payments with Symfony",
     "keywords": ["payment"],
